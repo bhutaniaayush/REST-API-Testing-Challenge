@@ -4,31 +4,24 @@ This is a Python project for test automation, covering REST API testing. It incl
 
 ## Concepts Included
 
-Parallel test runs
-
-Logging configuration
-
-Test data management
-
-Test fixture setup
-
-Test cleanup after execution
+- Parallel test runs
+- Logging configuration
+- Test data management
+- Test fixture setup
+- Test cleanup after execution
 
 ## Tools
 
-Python
-
-Pytest
-
-Requests library
+- Python
+- Pytest
+- Requests library
 
 ## Requirements
 
 In order to utilize this project, you need to have the following installed locally:
 
-Python 3
-
-Pip (Python package manager)
+- Python 3
+- Pip (Python package manager)
 
 ## Usage
 
